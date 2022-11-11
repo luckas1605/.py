@@ -5,7 +5,7 @@ idade = input("Digite sua idade: ")
 if nome and idade:
 
     print(f"O seu nome é {nome} ")
-    print(f'O seu nome invertido fica é {nome[::-1]}')
+    print(f'O seu nome invertido fica: {nome[::-1]}')
 
     if " " in nome:
         print("Seu nome contem espaços")
