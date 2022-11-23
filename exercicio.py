@@ -10,7 +10,7 @@ if nome and idade:
     if " " in nome:
         print("Seu nome contem espaços")
     else:
-        print("Seu nome nao contem espaços")
+        print("Seu nome não contem espaços")
 
     quantidade = len(nome)
     print("O seu nome tem {} letras".format(quantidade))
