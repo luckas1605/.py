@@ -31,6 +31,7 @@ while True:
         print(f"{nmr1} - {nmr2} = ", float(nmr1) - float(nmr2))
     elif operador == '/':
         print(f"{nmr1} / {nmr2} = ", float(nmr1) / float(nmr2))
+    else:
         operador == '*'
         print(f"{nmr1} * {nmr2} = ", float(nmr1) * float(nmr2))
 
