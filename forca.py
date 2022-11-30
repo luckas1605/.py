@@ -1,6 +1,3 @@
-import os
-
-
 palavra_secreta = input("Digite uma palavra: ")
 letras_Acertadas = ''
 numeros_de_tentativas = 0
